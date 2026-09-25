@@ -1,7 +1,7 @@
 {
   "curve_id": "USD.CMT",
   "source": "home.treasury.gov daily_treasury_yield_curve",
-  "generated_at": "2026-09-25T01:46:14.875618+00:00",
+  "generated_at": "2026-09-25T06:22:09.527971+00:00",
   "curves": {
     "2026-09-11": {
       "M1": 0.0393,
