@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:13:01.834611+00:00",
+  "generated_at": "2026-10-23T01:12:36.060622+00:00",
   "maturity_cutoff": "2025-01-01",
   "source": "treasurydirect.gov securities API",
   "terms": {
@@ -3058,6 +3058,19 @@
       "spread": null,
       "stub_length": null
     },
+    "912797WT0": {
+      "call_date": null,
+      "coupon_rate": null,
+      "coupons_per_year": null,
+      "dated_date": null,
+      "first_coupon_date": null,
+      "issue_date": "2026-10-29",
+      "maturity_date": "2027-10-28",
+      "reference_cpi": null,
+      "security_type": "bill",
+      "spread": null,
+      "stub_length": null
+    },
     "912797WU7": {
       "call_date": null,
       "coupon_rate": null,
@@ -3079,6 +3092,19 @@
       "first_coupon_date": null,
       "issue_date": "2026-10-22",
       "maturity_date": "2027-04-22",
+      "reference_cpi": null,
+      "security_type": "bill",
+      "spread": null,
+      "stub_length": null
+    },
+    "912797WW3": {
+      "call_date": null,
+      "coupon_rate": null,
+      "coupons_per_year": null,
+      "dated_date": null,
+      "first_coupon_date": null,
+      "issue_date": "2026-10-29",
+      "maturity_date": "2027-04-29",
       "reference_cpi": null,
       "security_type": "bill",
       "spread": null,
